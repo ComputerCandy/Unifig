@@ -34,22 +34,3 @@ print("Hello, " + value)
 
 ```
 
-### Live Updating `Name`
-
-Key Name: `Name`
-
-Desciption: `A live updating example`
-
-Default: `John Doe`
-
-```py
-from unifig import *
-
-def newName(name):
-  print('Hello, ' + name)
-
-unifig.register('Name', 'A live updating example', 'John Doe')
-
-unifig.subscribe('Name', newName)
-
-```
