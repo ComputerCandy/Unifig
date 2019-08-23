@@ -1,0 +1,9 @@
+colors.mainbg = #652987
+
+#
+# Key: i3.color
+# Default: #555555
+# The background color for x
+#
+i3.color = $colors.mainbg
+
