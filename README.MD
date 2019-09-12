@@ -19,7 +19,7 @@ Unifig Interface cannot connect to a remote daemon, only allowing for local acce
 
 Key Name: `Hello`
 
-Desciption: `A hello world example key`
+Description: `A hello world example key`
 
 Default: `World`
 
